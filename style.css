@@ -3,8 +3,8 @@
 	display: flex;
 }
 .flip-card{
-	width: 300px;
-	height: 300px;
+	width: 30%;
+	height: 30%;
 	perspective: 1000px;
 }
 .flip-card-inner{
@@ -27,13 +27,13 @@
 	border-radius: 16px;
 }
 .flip-card-front img{
-	width: 220px;
+	width: 22%;
 	margin-top: 1rem;
 }
 .flip-card-back{
 	transform: rotateY(180deg);
 }
 .flip-card-back img{
-	width: 220px;
+	width: 22%x;
 	margin-top: 1rem;
 }
